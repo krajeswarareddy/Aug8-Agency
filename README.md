@@ -9,8 +9,6 @@
 
 ---
 
-**remove this after some time**
-
 ## Overview
 
 **Aug8Agency** is a premium post-production studio serving independent creators and brands who demand more than competent editing — they want content that performs.
